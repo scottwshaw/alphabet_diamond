@@ -11,7 +11,7 @@ function line_to_print(i_max_char::Int)
     if(letter == 'A')
         return (repeat(" ", offset), 'A')
     else
-        return (repeat(" ", offset), letter, repeat(" ",2*(i_max_char - offset - 1)-1), letter)
+        return (repeat(" ", offset), letter, repeat(" ",2*(i_max_char - offset) - 3), letter)
     end
 end
 
