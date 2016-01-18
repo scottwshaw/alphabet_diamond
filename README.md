@@ -9,9 +9,13 @@ Then run the script with the following command line:
 
 	$ julia diamond.jl <a single upper- or lower-case letter>
 
+A "go" script is provided.  If Julia is installed and on the path,
+
+	$ go <a single upper- or lower-case letter>
+
 # Example
 
-	$ julia diamond.jl m
+	$ go m
 
                 A
                B B
