@@ -25,7 +25,7 @@ function args_are_valid()
         print_error("too many arguments")
         return false
     elseif(length(ARGS) < 1)
-        print_error("please specify the letter you want to print to")
+        print_error("please specify the letter at the widest part of the diamond")
         return false
     elseif((length(ARGS[1]) > 1) ||
            (search(ascii('A':'Z'), uppercase(ARGS[1])[1]) == 0))
