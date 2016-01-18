@@ -1,4 +1,5 @@
 #! /bin/bash
+set -e
 
 hash julia 2>/dev/null || { \
     echo >&2 "Command \"julia\" can't be found.";
