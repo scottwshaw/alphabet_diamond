@@ -1,5 +1,5 @@
 # alphabet_diamond
-Solution to Shokunin programming problem to print a diamond of letters up to a specific letter of the alphabet
+Solution to Shokunin programming problem to print a diamond of letters up to a specific letter of the alphabet.  This code is written in the programming lanugage Julia, but pretty much any functional language would do for this code.
 
 To run this script, first install Julia.  On a mac you can do this with homebrew.
 
