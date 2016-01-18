@@ -12,31 +12,31 @@ Then run the script with the following command line:
 # Example
 
 	$ julia diamond.jl m
-/*
-            A
-           B B
-          C   C
-         D     D
-        E       E
-       F         F
-      G           G
-     H             H
-    I               I
-   J                 J
-  K                   K
- L                     L
-M                       M
- L                     L
-  K                   K
-   J                 J
-    I               I
-     H             H
-      G           G
-       F         F
-        E       E
-         D     D
-          C   C
-           B B
-            A
-/*
+
+                A
+               B B
+              C   C
+             D     D
+            E       E
+           F         F
+          G           G
+         H             H
+        I               I
+       J                 J
+      K                   K
+     L                     L
+    M                       M
+     L                     L
+      K                   K
+       J                 J
+        I               I
+         H             H
+          G           G
+           F         F
+            E       E
+             D     D
+              C   C
+               B B
+                A
+
 
